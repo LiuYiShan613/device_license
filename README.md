@@ -37,7 +37,7 @@
 #### step 3.
 - `LicenseChecker::isLicenseMatched()`
   - Please put this method into your program, it will check whether your Serial number is correct.
-  - take DIVA Object detection as example           
+  - take Object detection as example           
   ```c++
   #include "sdk/aes_license.hpp"
 
